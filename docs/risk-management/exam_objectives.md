@@ -28,7 +28,7 @@
 - Impact of deperimeterization
 	- Telecommuting
 	- Cloud
-	- Mobil
+	- Mobile
 	- BYOD
 	- Outsourcing
 	- Extending governance to third-party providers 
