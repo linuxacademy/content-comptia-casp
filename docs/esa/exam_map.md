@@ -1,0 +1,266 @@
+### CASP+ Exam Objective Map
+
+#### Enterprise Security Architecture
+
+##### 1. Analyze a Scenario and Integrate Network and Security Components, Concepts, and Architectures
+
+- Physical and virtual network and security devices
+	- UTM
+	- IDS/IPS
+	- NIDS/NIPS
+	- INE
+	- NAC
+	- SIEM
+	- Switch
+	- Firewall
+	- Wireless Controller
+	- Router
+	- Proxy
+	- Load Balancer
+	- HSM
+	- MicroSD HSM
+- Application and protocol-aware technologies
+	- WAF
+	- Firewall
+	- Passive Vulnerability Scanners
+	- DAM
+- Advanced network design (wired/wireless)
+	- Remote access
+		- VPN
+			- IPSec
+			- SSL/TLS
+		- SSH
+		- RDP
+		- VNC
+		- VDI
+		- Reverse Proxy
+	- IPv4 & IPv6 transitional technologies
+	- Network Authentication Methods
+	- 802.1x
+	- Mesh Networks
+	- Placement of fixed/mobile devices
+	- Placement of hardware & applications
+- Complex network security solutions for data flow
+	- DLP
+	- Deep Packet Inspection
+	- Data Flow Enforcement
+	- Network flow (S/Flow)
+	- Data flow diagram
+- Secure configuration and baselining of networking and security components
+- Software defined networking
+- Network management and monitoring tools
+	- Alert definition and rule writing
+	- Tuning alert threasholds
+	- Alert fatigue
+- Advanced configuration of routers, switches, and other network devices
+	- Transport security
+	- Trunking security
+	- Port security
+	- Route protection
+	- DDoS protection
+	- Remotely triggering black hole
+- Security zones
+	- DMZ
+	- Separation of critical assets
+	- Network segmentation
+- Network access control
+	- Quarantine/remediation
+	- Persistent/volatile or non-existent agent
+	- Agent vs. agentless
+- Network enabled devices
+	- System on a Chip (SoC)
+	- Building/home automation systems
+	- IP video
+	- HVAC controllers
+	- Sensors
+	- Physical access control systems
+	- A/V systems
+	- Scientific/Industrial equipment
+- Critical infrastructure
+	- Supervisory control and data acquisition (SCADA)
+	- Industrial control system (ICS)
+
+##### 2. Analyze a scenario to integrate security controls for host devices 
+
+- When to use trusted operating systems
+	- SELinux
+	- SEAndroid
+	- Trusted Solaris
+	- Least functionality
+- Endpoint security software
+	- Anti-malware
+	- Anti-virus
+	- Anti-spyware
+	- SPAM filters
+	- Patch management
+	- HIPS/HIDS
+	- Data loss prevention
+	- Host-based firewalls
+	- Log monitoring
+	- Endpoint detection response
+- Host hardening
+	- Standard operating environment
+	- Configuration baselining and management
+		- Application white-listing and black-listing
+	- Security group policy implementation
+	- Command shell restrictions
+	- Patch management
+		- Manual
+		- Automated
+			- Scripting and replication
+	- Configuring dedicated interfaces
+		- Out of band management
+		- ACLs
+		- Management interface
+		- Data interface
+	- External I/O restrictions
+		- USB
+		- Wireless
+			- Bluetooth
+			- NFC
+			- IrDA
+			- RF
+			- 802.11
+			- RFID
+		- Drive mounting
+		- Drive mapping
+		- Webcam
+		- Recording mic
+		- Audio output
+		- SD port
+		- HDMI port
+	- File and disk encryption
+	- Firmware updates
+- Boot loader protections
+	- Secure boot
+	- Measured launch
+	- Integrity measurement architecture
+	- BIOS/UEFI
+	- Attestation services
+	- TPM
+- Vulnerabilities associated with hardware
+- Terminal services/application delivery services
+
+##### 3. Analyze a scenario to integrate security controls for mobile and small form factir devices to meet security requirements
+
+- Enterprise mobility management
+	- Containerization
+	- Configuration profiles and payloads
+	- Personally owned corporate enabled
+	- Application wrapping
+	- Remote assistance access
+		- VNC
+		- Screen mirroring
+	- Application content and data management
+	- Over the air updates for software and firmware
+	- Remote wiping
+	- SCEP
+	- BYOD
+	- COPE
+	- VPN
+	- Application permissions
+	- Side loading
+	- Unsigned apps
+	- Context aware management
+		- Geolocation and Geofencing
+		- User behavior
+		- Security restrictions
+		- Time-based restrictions
+- Security implications and privacy concerns
+	- Data storage
+		- Non-removable storage
+		- Removable storage
+		- Cloud storage
+		- Transfer backup data to uncontrolled storage
+		- USB OTG
+	- Device loss or theft
+	- Hardware anti-tamper
+		- eFuse
+	- TPM
+	- Rooting and jailbreaking
+	- Push notification services
+	- Geotagging
+	- Encrypted instant messaging apps
+	- Tokenization
+	- OEM carrier Android fragmentation
+	- Mobil payment
+		- NFC enabled
+		- Inductance enabled
+		- Mobile wallet
+		- Peripheral enabled payments
+	- Tethering
+		- USB
+		- Spectrum management
+		- Bluetooth 3.0 & 4.1
+	- Authentication
+		- Swipe pattern
+		- Gesture
+		- Pin code
+		- Biometric
+			- Facial
+			- Fingerprint
+			- Iris Scan
+		- Malware
+		- Unauthorized domain bridging
+		- Baseband radio/SOC
+		- Augmented reality
+		- SMS, MMS messaging
+- Wearable technology
+	- Devices
+		- Cameras
+		- Watches
+		- Fitness devices
+		- Glasses
+		- Medical sensors & devices
+		- Headsets
+	- Security implications
+		- Unauthorized remote activation/deactivation of device features
+		- Encrypted and unencrypted communication concerns
+		- Physical reconnaissance
+		- Personal data theft
+		- Health privacy
+		- Digital forensics
+
+##### 4. Security Controls for Various Software Vulnerability Scenarios
+
+- Application security design considerations
+	- Secure: by design, default and deployment
+- Specific application issues
+ 	- Unsecure direct object references
+	- XSS
+	- CSRF
+	- Click-jacking
+	- Session management
+	- Input validation
+	- SQL injection
+	- Improper error and exception handling
+	- Privilege escalation
+	- Improper storage of sensitive data
+	- Fuzzing and fault injection
+	- Secure cookies
+	- Buffer overflow
+	- Memory leaks
+	- Integer overflows
+	- Race conditions
+		- Time of check and time of use
+	- Resource exhaustion
+	- Geotagging
+	- Data remnants
+	- Use of third-party libraries
+	- Code reuse
+- Application sandboxing
+- Secure encrypted enclaves
+- Database activity monitor
+- Web application firewalls
+- Client/Server processing
+	- JSON and REST
+	- Browser extensions
+		- ActiveX
+		- Java Applets
+	- HTML5
+	- AJAX
+	- SOAP
+	- State management
+	- Java script
+- Operating system vulnerabilities
+- Firmware vulnerabilities
