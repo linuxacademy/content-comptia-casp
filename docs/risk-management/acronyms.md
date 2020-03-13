@@ -17,7 +17,7 @@
 |RFP|Request For Proposal|Security Requirements For Contractors|
 |RFQ|Request For Quote|Security Requirements For Contractors|
 |MSA|Request For Information|Security Requirements For Contractors|
-|CIA|"Confidentiality| Integrity| Availability"|Levels to Consider for Types of Information|
+|CIA|Confidentiality,Integrity,Availability|Levels to Consider for Types of Information|
 |ALE|Annual Loss Expectancy|Quantitative Risk Determination|
 |SLE|Single Loss Expectancy|Quantitative Risk Determination|
 |ROI|Return on Investment|Risk Mitigation Strategy and Control|
