@@ -29,8 +29,8 @@
 |MTBF|Mean Time Between Failures|BCP Metrics|
 |BCP|Business Continuity Planning|Risk Management Considerations|
 |MTTF|Mean Time To Failure|BCP Metrics|
-|KPI|Key Performance Indicator|"Risk Management Strategy| Policy"|
-|KRI|Key Risk Indicator|"Risk Management Strategy| Policy"|
+|KPI|Key Performance Indicator|Risk Management Strategy, Policy|
+|KRI|Key Risk Indicator|Risk Management Strategy, Policy|
 |ERM|Enterprise Risk Management|Risk Management and IT Governance|
 |ESA|Enterprise Security Architecture|Risk Management and IT Governance|
 |SOX|Sarbanes Oxley|Regulations and Privacy|
