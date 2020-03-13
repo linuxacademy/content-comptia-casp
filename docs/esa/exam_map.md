@@ -264,3 +264,6 @@
 	- Java script
 - Operating system vulnerabilities
 - Firmware vulnerabilities
+
+SOURCE:
+Adapted from CompTIA CASP+ Study Guide, Jeff Parker and Michael Gregg, Sybex Publishing
