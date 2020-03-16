@@ -141,7 +141,7 @@
 - Vulnerabilities associated with hardware
 - Terminal services/application delivery services
 
-##### 3. Analyze a scenario to integrate security controls for mobile and small form factir devices to meet security requirements
+##### 3. Analyze a scenario to integrate security controls for mobile and other wireless devices to meet security requirements
 
 - Enterprise mobility management
 	- Containerization
