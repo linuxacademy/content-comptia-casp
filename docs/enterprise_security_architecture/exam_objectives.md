@@ -50,7 +50,7 @@
 - Software defined networking
 - Network management and monitoring tools
 	- Alert definition and rule writing
-	- Tuning alert threasholds
+	- Tuning alert thresholds
 	- Alert fatigue
 - Advanced configuration of routers, switches, and other network devices
 	- Transport security
@@ -183,7 +183,7 @@
 	- Encrypted instant messaging apps
 	- Tokenization
 	- OEM carrier Android fragmentation
-	- Mobil payment
+	- Mobile payment
 		- NFC enabled
 		- Inductance enabled
 		- Mobile wallet
