@@ -3,7 +3,7 @@
 
 #### 1. Summarize Business and Industry Influences and Associated Risks
 
-- Risk Management of new products, technologies and behaviors
+- Risk Management of new products, technologies, and behaviors
 - New or changing business models and strategies
 	- Partnerships
 	- Outsourcing
@@ -41,8 +41,8 @@
 	- Environmental changes
 	- Regulatory requirements
 	- Emerging risks
-- Support legal compliance and advocacy by partnering with human resources, legal, management, and other entities.
-- Understand common business documents to support security.
+- Support legal compliance and advocacy by partnering with human resources, legal, management, and other entities
+- Understand common business documents to support security
 	- Risk Assessment (RA)
 	- Business Impact Analysis (BIA)
 	- Interoperability Agreement (IA)
@@ -53,12 +53,12 @@
 	- Non-Disclosure Agreement (NDA)
 	- Business Partnership Agreement (BPA)
 	- Master Service Agreement (MSA)
-- Research security requirements for contracts.
+- Research security requirements for contracts
 	- Request For Proposal (RFP)
 	- Request For Quote (RFQ)
 	- Request For Information (RFI)
-- Understand general privacy principles for sensitive information.
-- Support the development of policies containing standard security practices.
+- Understand general privacy principles for sensitive information
+- Support the development of policies containing standard security practices
 	- Separation of duties
 	- Job rotation
 	- Mandatory vacation
@@ -73,7 +73,7 @@
 
 #### 3. Given a Scenario, Execute Risk Mitigation and Controls
 
-- Categorize data types by impact levels based on CIA (Confidentiality, Integrity and Availability)
+- Categorize data types by impact levels based on CIA (Confidentiality, Integrity, and Availability)
 - Incorporate stakeholder input into CIA impact-level decisions
 - Determine minimum required security controls based on aggregate score
 - Select and implement controls based on CIA requirements and organizational policies
@@ -89,7 +89,7 @@
 - Discern risk strategy based on risk tolerance
 	- Avoid, Transfer, Mitigate or Accept
 - Risk Management processes
-	- Exemptions, Deterence, Inherent, Residual
+	- Exemptions, Deterrence, Inherent, Residual
 - Continuous Improvement and Monitoring
 - Business Continuity Planning
 	- RTO
@@ -97,7 +97,7 @@
 	- MTTR
 	- MTBF
 - IT Governance
-	- Ongoing adherence to risk management framworks
+	- Ongoing adherence to risk management frameworks
 - Enterprise resilience
 
 #### 4 Analyze Risk Metric Scenarios to Secure the Enterprise
@@ -105,9 +105,9 @@
 - Review effectiveness of existing security controls
 	- Gap analysis, lessons learned, after-action reports
 - Reverse engineer and deconstruct existing solutions
-- Creation and collection and analysis of metrics
-	- KPI's
-	- KRI's
+- Creation, collection, and analysis of metrics
+	- KPIs
+	- KRIs
 - Prototype and test multiple solutions
 - Create benchmarks and compare to baselines
 - Analyze and interpret trend data to anticipate attack vectors and methods
@@ -122,7 +122,7 @@
 	- Recoverability
 	- ROI
 	- TCO
-- Use judgement to problem-solve especially when risks must be tolerated due to restraints or practicality
+- Use judgement to problem-solve, especially when risks must be tolerated due to restraints or practicality
 
 
 SOURCE:

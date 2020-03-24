@@ -1,4 +1,4 @@
-# Supporting Risk Managment and IT Governance
+# Supporting Risk Management and IT Governance
 
 ## Risk Management
 
@@ -10,10 +10,10 @@ Risk Management is typically defined as the cyclical process of identifying, ass
 #### Risk Management Cycle
 IDENTIFY -> ASSESS -> ANALYZE -> RESPOND
 
-The risk management process is never intended to end
+The risk management process is never intended to end.
 
 #### Risk Management is an Active Process
-Without risk management your security practice is passive, and subject to ever-changing technology and emerging standards.
+Without risk management, your security practice is passive and subject to ever-changing technology and emerging standards.
 
 ### Enterprise Risk Management (ERM)
 
@@ -25,23 +25,23 @@ Risk management functions must be distributed amongst all levels of an organizat
 - Keeping trade secrets private
 - Avoiding financial losses wrought by damaged resources
 - Avoiding legal liability and compliance breach
-- Protecting brand integrity and public good will toward image
+- Protecting brand integrity and public goodwill toward image
 - Ensuring the continuity of ongoing business operations
 - Framing business relationships by establishing trust and limiting liability
 - Enabling stakeholder objectives to be achieved
 
 ### Risk Exposure
-Risk Exposure is the organization's susceptability to loss. When quantified the likelihood or probability of an incident is considered along with the anticipated impact or loss if it were to actually occur.
+Risk exposure is the organization's susceptibility to loss. When quantified, the likelihood or probability of an incident is considered along with the anticipated impact or loss if it were to actually occur.
 
 ### The Pervasive and Persistent Nature of Risks
-Elements of risk include threats, attacks, and vulnerabiloties that have the potential to cause harm. Risk can nether be eliminated, nor terminated. Ongoing management of risk including risk mitigation is vital to an ERM strategy.
+Elements of risk include threats, attacks, and vulnerabilities that have the potential to cause harm. Risk can nether be eliminated, nor terminated. Ongoing management of risk, including risk mitigation, is vital to an ERM strategy.
 
 ### Risk Analysis Methods 
 
-- Qualitative: Involves the use of nomenclature for impact ratings such as severe, moderate or low. 
-- Quantitative: Attempts to calculate the probably loss associated with any given risk.
+- Qualitative: Involves the use of nomenclature for impact ratings such as severe, moderate, or low. 
+- Quantitative: Attempts to calculate the probability of loss associated with any given risk.
 
-##### Quantitative formulas for Risk Determination
+##### Quantitative Formulas for Risk Determination
 
 Monetary Loss Value
 
@@ -51,30 +51,30 @@ Monetary Loss Value
 Annual Loss Value
 
 **SLE x ARO = ALE**
-(Single Loss Expectancy) * (Annual Rate of Occurance) = (Annual Loss Expectancy)
+(Single Loss Expectancy) * (Annual Rate of Occurrence) = (Annual Loss Expectancy)
 
 >Note: ALE may be a moving target due to business and technological change.
 
->Two additional Risk determinations are ROI (Return on INvestment) and TCO (Total Cost of Ownership). Obviously if the cost of mitigating a risk exceeds the loss prevented, then mitigation may not be feasible based on monetary metrics only.
+>Two additional Risk determinations are ROI (Return on Investment) and TCO (Total Cost of Ownership). Obviously if the cost of mitigating a risk exceeds the loss prevented, then mitigation may not be feasible based on monetary metrics only.
 
 
-- Semi-Quantitative: A Hybrid method involving Qualitiative and Quantitative approaches.
+- Semi-Quantitative: A Hybrid method involving Qualitative and Quantitative approaches.
 
 ### Risk Types
 
-- Legal: Compliance with laws and regulations invilves close adeherence to industry and jurisdictional laws. Forensics often involves the need for proof of worngdoing but also may include the proof of an organization's adherence to regulatory guidelines.
+- Legal: Compliance with laws and regulations involves close adherence to industry and jurisdictional laws. Forensics often involves the need for proof of wrongdoing, but also may include the proof of an organization's adherence to regulatory guidelines.
 - Financial: The risk of theft, financial loss, and depletion of assets is a typical risk faced by enterprises.
 - Physical Assets: Property theft, damage, loss, or misuse is a risk faced by enterprises that requires mitigation.  
 - Intellectual Property: Media, software, trade secrets, product designs, and proprietary techniques are all examples of intellectual property that requires ongoing protection from theft or unauthorized disclosure to third-parties.
 - Infrastructure: Plants and equipment rely on infrastructure to provide power and ongoing operation. Threats to the underlying infrastructure that enables operations are an area of focus for risk management.
-- Operations: Disrupting day-to-day processes and the ability for the organization to functional normally is a costly result of security breach. Ensuring business continuity is a key aim of effective risk management.
-- Reputation: How existing and prospective customers perceive an entity's ability to protect themself from breach is a key aspect of brand integirty. When banks lose credit card data to outsiders it impairs their reputation as a secure place to deposit money.
+- Operations: Disrupting day-to-day processes and the ability for the organization to function normally is a costly result of security breach. Ensuring business continuity is a key aim of effective risk management.
+- Reputation: How existing and prospective customers perceive an entity's ability to protect themself from breach is a key aspect of brand integrity. When banks lose credit card data to outsiders, it impairs their reputation as a secure place to deposit money.
 - Health: Harm may come to employees, customers, or others if infrastructure or ongoing operations of assets is impaired due to security threats. Hospitals are not the only institutions that rely heavily on equipment that can either help or harm individuals. The self-driving car is the most poignant example of how machines may affect human welfare.
 
 ## Risk Assessment
 
 ### Enterprise Security Architecture (ESA)
-ESA is a framework used to define the methods used to secure an entity. Baselines and goals are determined to evaluate ongoing threasholds of performance and practice ongoing improvement. ESA involves the quantifying of ongoing internal and external threats and how they might manifest themselves in any given scenario. After identifying and quantifying any givin risk the ESA process involves the determination of potential mitigation.
+ESA is a framework used to define the methods used to secure an entity. Baselines and goals are determined to evaluate ongoing thresholds of performance and practice ongoing improvement. ESA involves the quantifying of ongoing internal and external threats and how they might manifest themselves in any given scenario. After identifying and quantifying any given risk, the ESA process involves the determination of potential mitigation.
 
 ------------
 
@@ -83,7 +83,7 @@ ESA is a framework used to define the methods used to secure an entity. Baseline
 ### ESA Frameworks
 
 - NIST SP 800-37 (National Institute of Standards and Technology Special Publication)
-- COBIT (Control Objectives for Infromation and Related Technology)
+- COBIT (Control Objectives for Information and Related Technology)
 - ITAF(tm) (Information Technology Assurance Framework)
 - ITIL(r) (Information Technology Infrastructure Library)
 - ISO 27001/ISO 27002 (International Standards Organization)
@@ -96,7 +96,7 @@ ESA is a framework used to define the methods used to secure an entity. Baseline
 2. Review existing security policies.
 3. Assess the physical plant and environmental aspects of the enterprise and its infrastructure.
 4. Examine the internal network for vulnerabilities and potential attack vectors.
-5. Determine access points and connectivity to external resources and assess these third-party endpoints for vunerabilities and potential breach.
+5. Determine access points and connectivity to external resources and assess these third-party endpoints for vulnerabilities and potential breach.
 6. Analyze information sharing with third-parties including but not limited to supply chain partners, managed service providers, cloud service providers, and third-party information services.
 7. Identify wireless access points and assess security methods.
 8. Review policies that govern resource access and information sharing.
@@ -117,11 +117,11 @@ Cloud Computing
 
 Mergers and Acquisitions
 
-Divestigure and Discontinuing Operations
+Divestiture and Discontinuing Operations
 
 ### Security Concerns Regarding Integration
 
-Integrating third-parties into an enterprise security practice involves careful evaluation of the risks associated with the elements of the third-party infranstructure and practice.
+Integrating third-parties into an enterprise security practice involves careful evaluation of the risks associated with the elements of the third-party infrastructure and practice.
 
 Rules and Policies
 
@@ -129,11 +129,11 @@ Legal Requirements and Regulations
 
 Geography
 
-Foreign Laws and Customs - Data Sovereignty...
+Foreign Laws and Customs - Data Sovereignty
 
 ### The challenge of De-perimeterization
 
-Shifting, reducing or removing established enterprise boundaries is often required to accomodate third-party integrations.
+Shifting, reducing, or removing established enterprise boundaries is often required to accommodate third-party integrations.
 
 Mobility
 
@@ -146,13 +146,13 @@ Outsourcing
 ### System Specific Risk Analysis
 
 - How can an attack be performed?
-- Are the attack vectors intenral only?
+- Are the attack vectors internal only?
 - Will user authentication systems prevent the internal vulnerability?
-- What is the data impact in terms of confidentiality, integirty, and availability?
+- What is the data impact in terms of confidentiality, integrity, and availability?
 - How is the vulnerability exploited and does the vulnerability exist at present?
 - Are there patches or workarounds that would remediate the vulnerability?
 - What is the confidence level of the vulnerability detection method? (false positives?)
-- What is the potential loss or damage, the exposure caused?
+- What is the potential loss or damage the exposure caused?
 - How pervasive are the vulnerability targets?
 - What are the business and compliance requirements for the affected systems?
 - How likely is the exploit or breach?
@@ -160,18 +160,18 @@ Outsourcing
 - How can the risk be articulated in business terms that stakeholders can comprehend, as opposed to technical terms meaningful only to IT professionals?
 
 ### Risk Determinations
-Since risks are pervasive it is often necessary to prioritize risks even for assessment activities. Things to consider when evaluating risks are:
+Since risks are pervasive, it is often necessary to prioritize risks even for assessment activities. Things to consider when evaluating risks are:
 
 - Threat actor motivation
 - Threat actor demographics
 - Annual rate of occurrence (ARO)
-- Threat vectors and prior occurrances
+- Threat vectors and prior occurrences
 
 ## Risk Mitigation
 
 ### Classifying Types of Information
 
-When determining whether information warrants protections, it is important to calssify the information that might be at risk.
+When determining whether information warrants protections, it is important to classify the information that might be at risk.
 
 Public
 
@@ -183,7 +183,7 @@ Confidential
 
 #### CIA Levels (Confidentiality, Integrity, Availability)
 
->Note also known as AIC and CAI in some domains to avoid confusion with the Central Intelligence Agency of the United States.
+>Note: Also known as AIC and CAI in some domains to avoid confusion with the Central Intelligence Agency of the United States.
 
 Stakeholder Input
 
@@ -206,7 +206,7 @@ Example: Database Intrusion
 
 ### Common Vulnerability Scoring System (CVSS)
 
-### Common Vulnerabilitys and Exposures (CVE)
+### Common Vulnerabilities and Exposures (CVE)
 
 MITRE Corporation
 
@@ -254,7 +254,7 @@ Forensic Tasks
 Employment Onboarding and Termination
 Continuous Monitoring
 Training and Awareness for Users
-Ausiting Requirements and Frequency
+Auditing Requirements and Frequency
 Information Classification
 
 ### Legal Compliance and Advocacy
@@ -263,7 +263,6 @@ Information Classification
 --------------
 
 # Privacy and Governance
-
 
 ### General Privacy Principles
 
@@ -275,7 +274,7 @@ Standards and Laws
 
 **SOX**
 
-Sarbanes Oxley (SOX) is a U.S. law that set new or expanded requirements for all U.S. publicly traded companies' boards, management and public accounting firms. A number of provisions of the Act also apply to privately held companies, such as the willful destruction of evidence to impede a federal investigation.
+Sarbanes Oxley (SOX) is a US law that set new or expanded requirements for all US publicly traded companies' boards, management, and public accounting firms. A number of provisions of the Act also apply to privately held companies, such as the willful destruction of evidence to impede a federal investigation.
 
 **GLBA**
 
@@ -283,11 +282,11 @@ The Gramm-Leach-Bliley Act (GLB Act or GLBA) is also known as the Financial Mode
 
 **FISMA**
 
-The Federal Information Security Management Act (FISMA) is United States legislation that defines a comprehensive framework to protect government information, operations and assets against natural or man-made threats. FISMA was signed into law part of the Electronic Government Act of 2002.
+The Federal Information Security Management Act (FISMA) is United States legislation that defines a comprehensive framework to protect government information, operations, and assets against natural or man-made threats. FISMA was signed into law as part of the Electronic Government Act of 2002.
 
 **COSO**
 
-The Committee of Sponsoring Organizations’ (COSO) mission is to provide thought leadership through the development of comprehensive frameworks and guidance on enterprise risk management, internal control and fraud deterrence designed to improve organizational performance and governance and to reduce the extent of fraud in organizations
+The Committee of Sponsoring Organizations’ (COSO) mission is to provide thought leadership through the development of comprehensive frameworks and guidance on enterprise risk management, internal control, and fraud deterrence designed to improve organizational performance and governance and to reduce the extent of fraud in organizations
 
 COSO was organized in 1985 to sponsor the National Commission on Fraudulent Financial Reporting, an independent private-sector initiative that studied the causal factors that can lead to fraudulent financial reporting. It also developed recommendations for public companies and their independent auditors, for the SEC and other regulators, and for educational institutions.
 
@@ -313,7 +312,7 @@ The PCI Security Standards Council’s mission is to enhance global payment acco
 
 #### Common Features of an MDM Solution
 
-- Pushing out OS, app and firmware updates
+- Pushing out OS, app, and firmware updates
 - Enrolling in authentication systems
 - Enforcing security policy for mobile applications
 - Using GPS to locate devices
@@ -406,17 +405,17 @@ Simple Certificate Enrollment Protocol
 
 #### BCP Metrics
 
-MTD : Maximum tolerable downtime is the longest period of time that a business outage may occur without causing irrecoverable business failure.
+MTD: Maximum tolerable downtime is the longest period of time that a business outage may occur without causing irrecoverable business failure.
 
-RPO : Recovery point objective is the longest period of time that an organization can tolerate lost data being unrecoverable. The RPO determines how the organization schedules its backups.
+RPO: Recovery point objective is the longest period of time that an organization can tolerate lost data being unrecoverable. The RPO determines how the organization schedules its backups.
 
-RTO : Recovery time objective is the length of time within which normal business operations and activities can be restored following an event.
+RTO: Recovery time objective is the length of time within which normal business operations and activities can be restored following an event.
 
-MTTF : Mean time to failure is the average time that a device or component is expected to be in operation. This assumes that the device cannot be repaired if it fails.
+MTTF: Mean time to failure is the average time that a device or component is expected to be in operation. This assumes that the device cannot be repaired if it fails.
 
-MTTR : Mean time to repair is the average time taken for a device or component to recover from an incident or failure.
+MTTR: Mean time to repair is the average time taken for a device or component to recover from an incident or failure.
 
-MTBF : Mean time between failures is the rating on a device or component that predicts the expected time it is in operation before needing to be repaired or replaced.
+MTBF: Mean time between failures is the rating on a device or component that predicts the expected time it is in operation before needing to be repaired or replaced.
 
 ### Business Documents that Support Security Initiatives
 
@@ -426,7 +425,7 @@ This document lays the groundwork for any future business documents that two par
 #### Statement of Applicability (SOA)
 This document identifies the controls in place in an organization and explains their purpose. As SOAs identify why a particular control is being used, they are often directly influenced by the conclusions reached in a risk assessment. The SOA should reference the policies and procedures that will take advantage of the identified controls. It may be beneficial to not only explain why a certain control was included, but to also explain why certain controls were excluded.
 
-#### Business Impact Analysus (BIA)
+#### Business Impact Analysis (BIA)
 This document identifies present organizational risks and determines the impact to ongoing, business-critical operations and processes if such risks actually occur. BIAs contain vulnerability assessments and evaluations to determine risks and their impact. BIAs should include all phases of the business to ensure a strong business continuation strategy.
 
 #### Interoperability Agreement (IA)
@@ -483,7 +482,7 @@ When integrating documentation into your ERM strategies:
 
 ### Secure Software Onboarding
 
-Virtually all developer organizations utilize third-party applications and install them from cloud based repositories. In addition to applications, developers within an enterprise utilize third-party vendor provided toolkits, frameworks and libraries that speed the task of software development. Last but not least is the increased use of third-party open source tooling and libraries that are downloaded from repositories maintained by the open source project maintainer.
+Virtually all developer organizations utilize third-party applications and install them from cloud based repositories. In addition to applications, developers within an enterprise utilize third-party vendor provided toolkits, frameworks, and libraries that speed the task of software development. Last but not least is the increased use of third-party open source tooling and libraries that are downloaded from repositories maintained by the open source project maintainer.
 
 In all cases when software in binary or source code form is brought inside a corporate network, or developer sandbox environment, that code is then fused and deployed with internal applications and systems. The following are key parts of an ESA and ERM.
 
@@ -495,7 +494,7 @@ Quarantine questionable content
 Maintain manifests for deployed applications so 3rd party libraries are evident
 Segment potentially vulnerable systems via sandboxing
 Utilize containers to isolate applications from their platforms and other applications
-Use Cloud and Virual host hardening to prevent privilege escalation and breakouts
+Use Cloud and Virtual host hardening to prevent privilege escalation and breakouts
 
 
 
