@@ -49,3 +49,4 @@
 |OTAP|Over the Air Provisioning and Programming|Mobile Risk Management|
 |SCEP|Simple Certificate Enrollment Protocol|Mobile Risk Management|
 |MTD|Maximum Tolerable Downtime|BCP Metrics|
+|PII|Personally Identifyable Information|
